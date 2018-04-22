@@ -25,6 +25,11 @@
     [условия](term3/Strings/problems.pdf),
     [решения](term3/Strings)
 
+### 4 семестр
+- Максимальный поток и паросочетания:
+    [условия](term4/Flow%20and%20Matching/problems.pdf),
+    [решения](term4/Flow%20and%20Matching/)
+
 ## Темы
 
 ### 1 семестр
