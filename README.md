@@ -2,7 +2,19 @@
 
 
 ## Лабораторные работы
-(Отсутствует 1 семестр)
+
+(Если какое-то решение неправильное с вашей точки зрения, пишите)
+### 1 семестр
+- Куча, сортировки, двоичный поиск:
+    [условия](term1/heap_sort/problems.pdf),
+    [решения](term1/heap_sort)
+- Линейные структуры данных:
+    [условия](term1/linear_structures/problems.pdf),
+    [решения](term1/linear_structures)
+- Деревья (RMQ etc.):
+    [условия](term1/trees/problems.pdf),
+    [решения](term1/trees)
+
 ### 2 семестр
 - Динамическое программирование:
     [условия](term2/Dynamic%20programming/problems.pdf),
